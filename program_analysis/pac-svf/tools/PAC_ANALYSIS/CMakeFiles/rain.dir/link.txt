@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fPIC -Wall -O3 -fno-rtti -shared -Wl,-soname,librain.so -o librain.so CMakeFiles/rain.dir/dependency_walker.cpp.o CMakeFiles/rain.dir/instrumenter_loger.cpp.o  ../../lib/libSvf.a ../../z3.obj/bin/libz3.a 
